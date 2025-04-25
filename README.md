@@ -1,6 +1,4 @@
-  ##
-  
-🚀 IaC / DevOps / SRE / Automação
+🚀 **IaC / DevOps / SRE / Automação**
 
   ##
 
