@@ -50,6 +50,7 @@
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Gabriel-Proxmox" height="30" width="40" src="https://www.svgrepo.com/download/504769/proxmox.svg">
+  <img align="center" alt="Gabriel-pfSense" height="30" width="40" src="https://toppng.com/uploads/preview/fsense-set-static-ip-for-a-specific-openvpn-client-firewall-pfsense-11563035057saouyckles.png">
   <img align="center" alt="Gabriel-Suricata" height="30" width="40" src="https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-R.png">
   <img align="center" alt="Gabriel-Squid" height="30" width="40" src="https://www.svgrepo.com/download/322426/giant-squid.svg">
   <img align="center" alt="Gabriel-Graylog" height="30" width="40" src="https://www.svgrepo.com/download/353835/graylog.svg">
