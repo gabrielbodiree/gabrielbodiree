@@ -29,6 +29,12 @@
   <img align="center" alt="Gabriel-Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg">
   <img align="center" alt="Gabriel-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg">
 
+</div>
+
+  ##
+
+<div style="display: inline_block"><br>
+  
   <img align="center" alt="Gabriel-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg">
   <img align="center" alt="Gabriel-Nginx" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg">
 
